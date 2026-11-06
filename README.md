@@ -1,7 +1,7 @@
 ## Hi 👋 My name is GEMRAS
-
-- 🔭 I’m currently working on: B1mBlock
+- 🌍 I'm based in Denmark
 - 🌱 I’m currently learning: Rust
+- 🔭 I’m currently working on: B1mBlock
 - 📫 How to reach me: gemras@insanitysmp.dk
 
 ### Skills
